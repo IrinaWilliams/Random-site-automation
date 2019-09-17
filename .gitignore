@@ -1,4 +1,9 @@
 # Logs
+node_modules
+allure-results
+allure-report
+.git
+.idea
 logs
 *.log
 npm-debug.log*
