@@ -29,7 +29,7 @@ run the following script in terminal (git bash):
 ````
 $ npm test
 ````
-## 3. Get Allure report
+## 3. Get Allure report for failed status
 run the following command in terminal:
 ````
 $ npm run report
