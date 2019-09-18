@@ -29,3 +29,8 @@ run the following script in terminal (git bash):
 ````
 $ npm test
 ````
+## 3. Get Allure report
+run the following command in terminal:
+````
+$ npm run report
+````
