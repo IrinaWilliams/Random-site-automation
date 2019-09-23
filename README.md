@@ -1,5 +1,5 @@
 # GoodRx
-# Automated tests for https://www.goodrx.com Project "Automated alerting system" for "Amoxicillin"
+# Automated tests for https://www.goodrx.com 
 ## Table of Contents
 1. [Project cloning](#clone)
 2. [Running tests](#tests)
@@ -14,7 +14,7 @@
 #### 1.2. GitHub:
 run the following command in terminal: 
 ````
-$ git clone https://github.com/IrinaWilliams/GoodRx.git
+$ git clone https://github.com/IrinaWilliams/Random-site-automation.git
 ````
 #### 1.3. Install npm:
 run the following command in terminal: 
